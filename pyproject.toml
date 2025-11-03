@@ -12,6 +12,7 @@ dependencies = [
     "pandas>=2.3.2",
     "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
+    "xgboost>=3.1.1",
 ]
 # to let dir 05_deployment as an independent dir, since the home dir has different scikit-learn
 # [tool.uv.workspace]
